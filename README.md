@@ -22,7 +22,7 @@ Clone this repository into a subdirectory named `subl-sc2-galaxy` in a *Packages
 ```C:\Users\YOUR_NAME\AppData\Roaming\Sublime Text 3\Packages``` (Windows)
 ```
 cd ~/.config/sublime-text-3/Packages
-git clone https://github.com/Talv/subl-sc2-galaxy.git
+git clone https://github.com/zergleb/subl-sc2-galaxy.git
 ```
 
 ## Configuration
